@@ -1,0 +1,14 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #2e3336;
+  color: white;
+}
+
+#project {
+  background-color: #2e3336;
+}
+
+section {
+  padding-top: 5rem;
+  /* scroll-margin-top: 70px; */
+}
