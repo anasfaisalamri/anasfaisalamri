@@ -1,0 +1,27 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "portfolio Anas Faisal Amri",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anasfaisalamri/anasfaisalamri.github.io.git"
+  },
+  "author": "anasfaisalamri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anasfaisalamri/anasfaisalamri.github.io/issues"
+  },
+  "homepage": "https://github.com/anasfaisalamri/anasfaisalamri.github.io#readme",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "aos": "^2.3.4",
+    "bootstrap": "^5.2.1",
+    "bootstrap-icons": "^1.9.1",
+    "jquery": "^3.6.1",
+    "portfolio": "^0.1.0"
+  }
+}
